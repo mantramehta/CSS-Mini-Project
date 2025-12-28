@@ -45,12 +45,12 @@ sidebar-navigation/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mantramehta/CSS-Projects.git
+   git clone https://github.com/mantramehta/CSS-Mini-Project.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd CSS-Projects
+   cd CSS-Mini-Project
    ```
 
 3. Open `index.html` in your web browser - that's it! No build process or dependencies required.
