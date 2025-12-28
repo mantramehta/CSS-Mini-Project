@@ -2,6 +2,8 @@
 
 A beautiful, responsive sidebar navigation menu built entirely with HTML and CSS - no JavaScript required! This project demonstrates the power of CSS-only solutions using the checkbox hack technique to create interactive UI components.
 
+> **Note:** This is a basic mini CSS project focused on showcasing core CSS concepts like pseudo-classes, transitions, and positioning. It's intentionally simple and not overly extensive - perfect for learning fundamental CSS techniques!
+
 ## 🎯 Features
 
 - **Pure CSS Implementation** - No JavaScript needed for toggle functionality
